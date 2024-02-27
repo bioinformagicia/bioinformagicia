@@ -1,5 +1,3 @@
----
-
 **GitHub Account: bioinformagicia**
 
 Welcome to the GitHub repository of bioinformagicia, where bioinformatics meets magic in data analysis! 🧬✨
@@ -26,16 +24,6 @@ I believe in the power of collaboration. Feel free to contribute, report issues,
 
 Join me on this magical journey through the intricacies of bioinformatics. Your curiosity is the spell that unlocks the secrets within the data!
 
----
-
-Feel free to customize the content based on your actual projects, repositories, and experiences.
-
-
-
-
-
-
-
 - 👋 Hi, I’m @bioinformagicia
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -44,7 +32,3 @@ Feel free to customize the content based on your actual projects, repositories, 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
-bioinformagicia/bioinformagicia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
