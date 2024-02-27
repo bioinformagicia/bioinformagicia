@@ -19,8 +19,8 @@ I am passionate about unraveling the secrets encoded in biological data through 
 I believe in the power of collaboration. Feel free to contribute, report issues, or share your insights. Together, we can create magic in bioinformatics and advance our understanding of life's code.
 
 **Connect:**
-- Twitter: [@bioinformagicia](https://twitter.com/bioinformagicia)
-- LinkedIn: [Bioinformagicia](https://www.linkedin.com/in/bioinformagicia/)
+- Twitter: [@bioinformagicia](#)
+- LinkedIn: [Bioinformagicia](#)
 
 Join me on this magical journey through the intricacies of bioinformatics. Your curiosity is the spell that unlocks the secrets within the data!
 
